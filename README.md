@@ -4,8 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
 👋I am currently learning Data Structures and Algorithms. <br>Learning concepts of Web application Security.<br>Always Excited to learn new things.
-👀 I’m interested in cyber security and automation ...
-📫 How to reach me :jatinjangid.work@gmail.com
+<br>👀 I’m interested in cyber security and automation ...
+<br>📫 How to reach me :jatinjangid.work@gmail.com
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@jack_jatin_jangid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@jatinjangid17) 
 
